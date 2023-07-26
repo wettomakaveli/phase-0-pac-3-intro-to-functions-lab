@@ -24,11 +24,3 @@ function sayHiToHeadphonedRoommate(string) {
     return("I would love to!")
   }
 }
-
-  
-const string = "Hello!";
-
-console.log(string);
-console.log(string.toLowerCase());
-
-console.log(string === string.toLowerCase());
